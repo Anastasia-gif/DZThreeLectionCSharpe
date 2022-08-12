@@ -1,0 +1,15 @@
+/home/nast/lessonС#/DzLessonThree(lection)/findDistanceTwoPointsCordinate/obj/Debug/net6.0/findDistanceTwoPointsCordinate.csproj.AssemblyReference.cache
+/home/nast/lessonС#/DzLessonThree(lection)/findDistanceTwoPointsCordinate/obj/Debug/net6.0/findDistanceTwoPointsCordinate.GeneratedMSBuildEditorConfig.editorconfig
+/home/nast/lessonС#/DzLessonThree(lection)/findDistanceTwoPointsCordinate/obj/Debug/net6.0/findDistanceTwoPointsCordinate.AssemblyInfoInputs.cache
+/home/nast/lessonС#/DzLessonThree(lection)/findDistanceTwoPointsCordinate/obj/Debug/net6.0/findDistanceTwoPointsCordinate.AssemblyInfo.cs
+/home/nast/lessonС#/DzLessonThree(lection)/findDistanceTwoPointsCordinate/obj/Debug/net6.0/findDistanceTwoPointsCordinate.csproj.CoreCompileInputs.cache
+/home/nast/lessonС#/DzLessonThree(lection)/findDistanceTwoPointsCordinate/bin/Debug/net6.0/findDistanceTwoPointsCordinate
+/home/nast/lessonС#/DzLessonThree(lection)/findDistanceTwoPointsCordinate/bin/Debug/net6.0/findDistanceTwoPointsCordinate.deps.json
+/home/nast/lessonС#/DzLessonThree(lection)/findDistanceTwoPointsCordinate/bin/Debug/net6.0/findDistanceTwoPointsCordinate.runtimeconfig.json
+/home/nast/lessonС#/DzLessonThree(lection)/findDistanceTwoPointsCordinate/bin/Debug/net6.0/findDistanceTwoPointsCordinate.dll
+/home/nast/lessonС#/DzLessonThree(lection)/findDistanceTwoPointsCordinate/bin/Debug/net6.0/findDistanceTwoPointsCordinate.pdb
+/home/nast/lessonС#/DzLessonThree(lection)/findDistanceTwoPointsCordinate/obj/Debug/net6.0/findDistanceTwoPointsCordinate.dll
+/home/nast/lessonС#/DzLessonThree(lection)/findDistanceTwoPointsCordinate/obj/Debug/net6.0/refint/findDistanceTwoPointsCordinate.dll
+/home/nast/lessonС#/DzLessonThree(lection)/findDistanceTwoPointsCordinate/obj/Debug/net6.0/findDistanceTwoPointsCordinate.pdb
+/home/nast/lessonС#/DzLessonThree(lection)/findDistanceTwoPointsCordinate/obj/Debug/net6.0/findDistanceTwoPointsCordinate.genruntimeconfig.cache
+/home/nast/lessonС#/DzLessonThree(lection)/findDistanceTwoPointsCordinate/obj/Debug/net6.0/ref/findDistanceTwoPointsCordinate.dll

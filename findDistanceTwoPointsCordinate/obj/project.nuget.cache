@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "+iEMV1zyveC58elDkbRuhtW11ivS9S6I4AoGmPxMctQPlk0wPhlQTosUAFNVRW79SXOfWjqu7GRfAea97r9zeA==",
+  "success": true,
+  "projectFilePath": "/home/nast/lessonС#/DzLessonThree(lection)/findDistanceTwoPointsCordinate/findDistanceTwoPointsCordinate.csproj",
+  "expectedPackageFiles": [
+    "/home/nast/.nuget/packages/microsoft.netcore.app.ref/6.0.7/microsoft.netcore.app.ref.6.0.7.nupkg.sha512",
+    "/home/nast/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.7/microsoft.aspnetcore.app.ref.6.0.7.nupkg.sha512",
+    "/home/nast/.nuget/packages/microsoft.netcore.app.host.linux-x64/6.0.7/microsoft.netcore.app.host.linux-x64.6.0.7.nupkg.sha512"
+  ],
+  "logs": []
+}

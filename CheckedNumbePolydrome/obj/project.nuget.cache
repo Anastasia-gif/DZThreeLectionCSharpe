@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "YFHay3Qjwg1QjQZjbjtWBAki01kOWtClFg5qMWTG0nD5M8rMOERodah7OPoIEWta3HQArlM6CIaHatrAhCxtCg==",
+  "success": true,
+  "projectFilePath": "/home/nast/lessonС#/DzLessonThree(lection)/CheckedNumbePolydrome/CheckedNumbePolydrome.csproj",
+  "expectedPackageFiles": [
+    "/home/nast/.nuget/packages/microsoft.netcore.app.ref/6.0.7/microsoft.netcore.app.ref.6.0.7.nupkg.sha512",
+    "/home/nast/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.7/microsoft.aspnetcore.app.ref.6.0.7.nupkg.sha512",
+    "/home/nast/.nuget/packages/microsoft.netcore.app.host.linux-x64/6.0.7/microsoft.netcore.app.host.linux-x64.6.0.7.nupkg.sha512"
+  ],
+  "logs": []
+}

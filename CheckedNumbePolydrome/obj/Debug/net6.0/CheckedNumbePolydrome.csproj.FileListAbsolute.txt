@@ -1,0 +1,15 @@
+/home/nast/lessonС#/DzLessonThree(lection)/CheckedNumbePolydrome/bin/Debug/net6.0/CheckedNumbePolydrome
+/home/nast/lessonС#/DzLessonThree(lection)/CheckedNumbePolydrome/bin/Debug/net6.0/CheckedNumbePolydrome.deps.json
+/home/nast/lessonС#/DzLessonThree(lection)/CheckedNumbePolydrome/bin/Debug/net6.0/CheckedNumbePolydrome.runtimeconfig.json
+/home/nast/lessonС#/DzLessonThree(lection)/CheckedNumbePolydrome/bin/Debug/net6.0/CheckedNumbePolydrome.dll
+/home/nast/lessonС#/DzLessonThree(lection)/CheckedNumbePolydrome/bin/Debug/net6.0/CheckedNumbePolydrome.pdb
+/home/nast/lessonС#/DzLessonThree(lection)/CheckedNumbePolydrome/obj/Debug/net6.0/CheckedNumbePolydrome.csproj.AssemblyReference.cache
+/home/nast/lessonС#/DzLessonThree(lection)/CheckedNumbePolydrome/obj/Debug/net6.0/CheckedNumbePolydrome.GeneratedMSBuildEditorConfig.editorconfig
+/home/nast/lessonС#/DzLessonThree(lection)/CheckedNumbePolydrome/obj/Debug/net6.0/CheckedNumbePolydrome.AssemblyInfoInputs.cache
+/home/nast/lessonС#/DzLessonThree(lection)/CheckedNumbePolydrome/obj/Debug/net6.0/CheckedNumbePolydrome.AssemblyInfo.cs
+/home/nast/lessonС#/DzLessonThree(lection)/CheckedNumbePolydrome/obj/Debug/net6.0/CheckedNumbePolydrome.csproj.CoreCompileInputs.cache
+/home/nast/lessonС#/DzLessonThree(lection)/CheckedNumbePolydrome/obj/Debug/net6.0/CheckedNumbePolydrome.dll
+/home/nast/lessonС#/DzLessonThree(lection)/CheckedNumbePolydrome/obj/Debug/net6.0/refint/CheckedNumbePolydrome.dll
+/home/nast/lessonС#/DzLessonThree(lection)/CheckedNumbePolydrome/obj/Debug/net6.0/CheckedNumbePolydrome.pdb
+/home/nast/lessonС#/DzLessonThree(lection)/CheckedNumbePolydrome/obj/Debug/net6.0/CheckedNumbePolydrome.genruntimeconfig.cache
+/home/nast/lessonС#/DzLessonThree(lection)/CheckedNumbePolydrome/obj/Debug/net6.0/ref/CheckedNumbePolydrome.dll

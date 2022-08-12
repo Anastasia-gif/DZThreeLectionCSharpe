@@ -1,0 +1,15 @@
+/home/nast/lessonС#/DzLessonThree(lection)/TableCubes/obj/Debug/net6.0/TableCubes.csproj.AssemblyReference.cache
+/home/nast/lessonС#/DzLessonThree(lection)/TableCubes/obj/Debug/net6.0/TableCubes.GeneratedMSBuildEditorConfig.editorconfig
+/home/nast/lessonС#/DzLessonThree(lection)/TableCubes/obj/Debug/net6.0/TableCubes.AssemblyInfoInputs.cache
+/home/nast/lessonС#/DzLessonThree(lection)/TableCubes/obj/Debug/net6.0/TableCubes.AssemblyInfo.cs
+/home/nast/lessonС#/DzLessonThree(lection)/TableCubes/obj/Debug/net6.0/TableCubes.csproj.CoreCompileInputs.cache
+/home/nast/lessonС#/DzLessonThree(lection)/TableCubes/bin/Debug/net6.0/TableCubes
+/home/nast/lessonС#/DzLessonThree(lection)/TableCubes/bin/Debug/net6.0/TableCubes.deps.json
+/home/nast/lessonС#/DzLessonThree(lection)/TableCubes/bin/Debug/net6.0/TableCubes.runtimeconfig.json
+/home/nast/lessonС#/DzLessonThree(lection)/TableCubes/bin/Debug/net6.0/TableCubes.dll
+/home/nast/lessonС#/DzLessonThree(lection)/TableCubes/bin/Debug/net6.0/TableCubes.pdb
+/home/nast/lessonС#/DzLessonThree(lection)/TableCubes/obj/Debug/net6.0/TableCubes.dll
+/home/nast/lessonС#/DzLessonThree(lection)/TableCubes/obj/Debug/net6.0/refint/TableCubes.dll
+/home/nast/lessonС#/DzLessonThree(lection)/TableCubes/obj/Debug/net6.0/TableCubes.pdb
+/home/nast/lessonС#/DzLessonThree(lection)/TableCubes/obj/Debug/net6.0/TableCubes.genruntimeconfig.cache
+/home/nast/lessonС#/DzLessonThree(lection)/TableCubes/obj/Debug/net6.0/ref/TableCubes.dll
